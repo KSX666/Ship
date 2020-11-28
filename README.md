@@ -19,7 +19,8 @@ users = itchat.search_chatrooms(name='测试群')
 #define IOT_USERNAME    "*********"
 #define IOT_KEY         "**********"
 #define IOT_TOPIC       "*********"
-```*
+```
+*
 当接通电源时自动循环发送信息
 
 # Dynamic positioning and rescue facilities for vessels
