@@ -1,7 +1,7 @@
 # 海上船舶的动态定位与搜救设施
 包括以下内容
 - 服务端和客户端的代码
-- 代码中使用的库文件
+- 代码中使用的库
 - STL模型
 
 # Dynamic positioning and rescue facilities for vessels
