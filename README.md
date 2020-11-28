@@ -6,6 +6,6 @@
 
 # Dynamic positioning and rescue facilities for vessels
 This repository contains:
-- Codes for Server and Client
+- Code for Server and Client
 - Used library
 - STL model
