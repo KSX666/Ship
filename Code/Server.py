@@ -6,7 +6,7 @@ import itchat
 
 # itchat.auto_login()
 itchat.auto_login(enableCmdQR=2)
-users = itchat.search_chatrooms(name='syl')
+users = itchat.search_chatrooms(name='测试群')
 
 def on_connect(client, userdata, flags, rc):
     print("Connected with result code "+str(rc))
