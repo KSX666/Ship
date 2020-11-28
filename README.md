@@ -5,8 +5,8 @@
 - STL模型
 
 ## 使用方式
-服务端运行Server.py
-运行后需通过二维码登录网页版微信
+服务端运行Server.py；
+运行后需通过二维码登录网页版微信；
 *群名目前是“测试群”，请在运行前更改
 ```
 users = itchat.search_chatrooms(name='测试群')
